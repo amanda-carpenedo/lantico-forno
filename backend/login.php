@@ -23,10 +23,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             header("Location: index.php");
             exit();
         } else {
-            echo "Usuário encontrado, mas a SENHA está errada!";
+            echo "Utente trovato, ma la password è errata!";
         }
     } else {
-        echo "USUÁRIO não encontrado no banco de dados!";
+        echo "Utente non trovato nel database!";
     }
 }
 

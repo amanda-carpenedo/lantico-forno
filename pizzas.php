@@ -58,7 +58,7 @@
                     <div class="page-title-outher">
                         <div class="page-title-inner">
                             <span class="page-title-icon flaticon-pizza-slice"></span>
-                            <h1 class="page-title">Pizzas</h1>
+                            <h1 class="page-title">Pizze</h1>
                             <div class="clear"></div>
                         </div>
                         <div class="clear"></div>

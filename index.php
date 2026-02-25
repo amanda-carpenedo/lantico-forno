@@ -227,7 +227,7 @@
                         mouseScrollReverse: "default",
                         onHoverStop: "off",
                         bullets: {
-                            enable: true,
+                            enable: false,
                             hide_onmobile: false,
                             style: "metis",
                             hide_onleave: false,

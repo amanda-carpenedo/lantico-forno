@@ -72,10 +72,10 @@ if (isset($_POST['aggiungi'])) {
             header("Location: index.php?sucesso=1");
             exit();
         } else {
-            echo "Erro ao salvar no banco: " . $conn->error;
+            echo "Errore durante il salvataggio nel database: " . $conn->error;
         }
     } else {
-        echo "Erro: Não foi possível carregar a imagem para a pasta img-pizza.";
+        echo "Errore: impossibile caricare l'immagine nella cartella img-pizza.";
     }
 }
 ?>
